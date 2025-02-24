@@ -397,12 +397,12 @@ const UserDetails = () => {
                                         >
                                             Send Email
                                         </div> */}
-                                        <div
+                                        {/* <div
                                             className="w-full h-max flex items-center pl-1 py-1 text-sm hover:bg-gray-300 cursor-pointer text-[#31ce36]"
                                             onClick={() => setLogin(!login)}
                                         >
                                             Login as {oneUserData.userName}
-                                        </div>
+                                        </div> */}
                                         <div
                                             className="w-full h-max flex items-center pl-1 py-1 text-sm hover:bg-gray-300 cursor-pointer text-[#f25961]"
                                             onClick={() =>
