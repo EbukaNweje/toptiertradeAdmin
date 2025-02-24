@@ -1,5 +1,5 @@
 import {NavLink, useNavigate} from 'react-router-dom'
-import logo from "../assets/swiftlogo.png";
+const logo = "https://toptiertrade.vercel.app/storage/app/public/photos/9tAyJ7Screenshot_2024-03-08_115753-removebg-preview.html";
 import {GoMail} from "react-icons/go";
 import {LuKey} from "react-icons/lu";
 import axios from "axios";
@@ -135,7 +135,7 @@ const Login = () => {
                         </div>
                         <div className="w-full text-center">
                             <p className="text-sm">
-                                © Copyright 2024 Coinstarpro Bitminers All Rights
+                                © Copyright 2024 Toptiertrade All Rights
                                 Reserved.
                             </p>
                         </div>
